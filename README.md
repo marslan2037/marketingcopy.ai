@@ -1,1 +1,1 @@
-# marketingcopy.ai
+# Public Repo
